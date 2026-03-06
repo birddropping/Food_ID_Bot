@@ -1,0 +1,86 @@
+CONDITIONS = {
+    "Renal": [
+        "Chronic Kidney Disease (CKD) Stage 1-2",
+        "Chronic Kidney Disease (CKD) Stage 3",
+        "Chronic Kidney Disease (CKD) Stage 4-5",
+        "End-Stage Renal Disease (ESRD)",
+        "Haemodialysis",
+        "Peritoneal Dialysis",
+        "Nephrotic Syndrome",
+        "Renal Transplant",
+    ],
+    "Cardiovascular": [
+        "Hypertension",
+        "Heart Failure",
+        "Hyperlipidaemia / Dyslipidaemia",
+        "Post-Myocardial Infarction",
+        "Atrial Fibrillation (on Warfarin)",
+        "Coronary Artery Disease",
+    ],
+    "Diabetic": [
+        "Type 1 Diabetes Mellitus",
+        "Type 2 Diabetes Mellitus",
+        "Gestational Diabetes",
+        "Pre-Diabetes / Insulin Resistance",
+    ],
+}
+
+DIALYSIS_TYPES = ["None", "Haemodialysis", "Peritoneal Dialysis"]
+
+NUTRIENTS = [
+    "Potassium",
+    "Phosphate",
+    "Sodium",
+    "Protein",
+    "Fluid",
+    "Saturated Fat",
+    "Cholesterol",
+    "Carbohydrates",
+    "Sugar",
+    "Vitamin K",
+    "Calcium",
+    "Iron",
+    "Fibre",
+    "Purine",
+]
+
+NATIONALITIES = [
+    "Australian",
+    "British",
+    "Singaporean",
+    "Malaysian",
+    "Chinese",
+    "Indian",
+    "Filipino",
+    "Indonesian",
+    "Thai",
+    "Vietnamese",
+    "Japanese",
+    "Korean",
+    "American",
+    "Canadian",
+    "South African",
+    "Nigerian",
+    "Ghanaian",
+    "Caribbean",
+    "Middle Eastern",
+    "Other",
+]
+
+ETHNICITIES = [
+    "Chinese",
+    "Malay",
+    "Indian",
+    "Filipino",
+    "Vietnamese",
+    "Thai",
+    "Indonesian",
+    "Japanese",
+    "Korean",
+    "Caucasian / White",
+    "African / Black",
+    "Hispanic / Latino",
+    "Middle Eastern",
+    "South Asian",
+    "Mixed / Other",
+]
